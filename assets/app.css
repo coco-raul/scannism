@@ -1,0 +1,9 @@
+#app ul > li {
+    list-style-type: decimal;
+}
+
+#app ul > li > div > div {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: start;
+}
